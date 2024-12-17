@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "CA_1122_Vtuber-Live-using-visual-script-main.sln"
+    "dotnet.defaultSolution": "ca2024fhw05.sln"
 }
